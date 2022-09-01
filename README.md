@@ -1,4 +1,4 @@
-# ALGORITM
+# ALGORITHM
 ---
 
 - [x] **Start**
